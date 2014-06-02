@@ -224,7 +224,7 @@ body .jumbotron .container .fus-pitch  .fus-call-to-action {
 
 body .jumbotron .container .fus-pitch h1 {
   font-weight: bold;
-  font-size: 60px;
+  font-size: 50px;
   line-height: 120%;
   margin: 0 0 5px 0;
   color: white;
@@ -232,7 +232,7 @@ body .jumbotron .container .fus-pitch h1 {
 
 body .jumbotron .container .fus-pitch h2 {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 22;
   line-height: 140%;
   margin: 0 0 0 0;
   color: white;
@@ -253,7 +253,7 @@ body .fus-btns {
 body .fus-btns .btn {
   display: inline-block;
   margin: 0 10px;
-  font-size: 14px;
+  font-size: 12px;
   padding: 10px 20px;
 }
 
